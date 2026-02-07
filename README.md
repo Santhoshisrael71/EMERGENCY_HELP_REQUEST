@@ -60,6 +60,8 @@ This project was developed as part of a **hackathon** to solve real-world emerge
 ---
 
 ##  Project Structure
+
+```
 Emergency-Help-Request-hackathon/
 │
 ├── app.py                 # Entry point (runs the server)
@@ -75,6 +77,7 @@ Emergency-Help-Request-hackathon/
 └── static/
     └── style.css          # Styling
 
+```
 
 ## Installation & Setup (Local)
  Clone the Repository
@@ -85,7 +88,10 @@ cd Emergency-Help-Request-hackathon
 ```
 
 ## Install Dependencies
+
+```
 pip install -r requirements.txt
+```
 
 ## Run the Application
 ```
